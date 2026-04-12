@@ -3,6 +3,7 @@
 Software developer and designer based in Rawalpindi, Pakistan.
 I build real-world desktop apps, networked systems, and AI-powered tools —
 from a production-ready pharmacy POS system to LLM-integrated applications and branded websites.
+![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
 
 ---
 
