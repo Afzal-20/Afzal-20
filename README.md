@@ -3,7 +3,7 @@
 Software developer and designer based in Rawalpindi, Pakistan.
 I build real-world desktop apps, networked systems, and AI-powered tools —
 from a production-ready pharmacy POS system to LLM-integrated applications and branded websites.
-![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
+
 
 ---
 
@@ -64,3 +64,5 @@ Production-ready MVC architecture.
 - 💼 Available on **Fiverr**
 - 📍 Based in Mardan, Pakistan
 - 💬 Open to freelance projects and collaborations
+
+  ![snake](https://raw.githubusercontent.com/Afzal-20/Afzal-20/output/github-snake.svg)
