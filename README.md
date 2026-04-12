@@ -61,5 +61,5 @@ Production-ready MVC architecture.
 ## 📬 Let's work together
 
 - 💼 Available on **Fiverr**
-- 📍 Based in Rawalpindi, Pakistan
+- 📍 Based in Mardan, Pakistan
 - 💬 Open to freelance projects and collaborations
